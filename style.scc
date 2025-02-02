@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    border: 1px solid blue;
+    color: blue;
+    text-align: center;
+}
+footer{
+    background-color: aqua;
+    color: blanchedalmond;
+    padding: 10px;
+}
+footer{
+    border: 1px solid white;
+    padding: 3px;bo
+}
